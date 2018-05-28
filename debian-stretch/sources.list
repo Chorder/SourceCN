@@ -1,8 +1,22 @@
+# 163 mirrors debs
 deb http://mirrors.163.com/debian/ stretch main non-free contrib
 deb http://mirrors.163.com/debian/ stretch-updates main non-free contrib
 deb http://mirrors.163.com/debian/ stretch-backports main non-free contrib
 deb http://mirrors.163.com/debian-security/ stretch/updates main non-free contrib
+# 163 mirrors sources
 deb-src http://mirrors.163.com/debian/ stretch main non-free contrib
 deb-src http://mirrors.163.com/debian/ stretch-updates main non-free contrib
 deb-src http://mirrors.163.com/debian/ stretch-backports main non-free contrib
 deb-src http://mirrors.163.com/debian-security/ stretch/updates main non-free contrib
+# Tsinghua Univertisy mirrors debs
+deb https://mirrors.tuna.tsinghua.edu.cn/debian/ stretch main non-free contrib
+deb https://mirrors.tuna.tsinghua.edu.cn/debian/ stretch-updates main non-free contrib
+deb https://mirrors.tuna.tsinghua.edu.cn/debian/ stretch-backports main non-free contrib
+deb https://mirrors.tuna.tsinghua.edu.cn/debian-security/ stretch/updates main non-free contrib
+# Tsinghua University sources
+deb-src https://mirrors.tuna.tsinghua.edu.cn/debian/ stretch main non-free contrib
+deb-src https://mirrors.tuna.tsinghua.edu.cn/debian/ stretch-updates main non-free contrib
+deb-src https://mirrors.tuna.tsinghua.edu.cn/debian/ stretch-backports main non-free contrib
+deb-src https://mirrors.tuna.tsinghua.edu.cn/debian-security/ stretch/updates main non-free contrib
+
+
